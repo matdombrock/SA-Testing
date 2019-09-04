@@ -28,3 +28,4 @@ User Role:
 Account Name: 
 Browser: 
 ```
+* If the new issue is a simple question or suggestion feel free to disregard the template!
