@@ -3,7 +3,7 @@ This is the Sound Agreements Testing Project!
 
 *Don't forget to bookmark this page now so you can easily find it again.*
 
-Github is a pretty technical looking site, but don't worry, you won't be using the vast majority of the stuff you see here. We are just using it for it's awesome project management tools!
+Github is a pretty technical looking site, **but don't worry, you won't be using the vast majority of the stuff you see here.** We are just using it for it's awesome project management tools!
 
 The only thing you will need to use here aside from this documentation, is the "Issues" tab. You can safely ignore everything else.
 
