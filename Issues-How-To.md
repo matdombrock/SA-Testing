@@ -7,14 +7,19 @@ To access the issues page, either click the issues tab in the top bar, or visit 
 
 Ideally, a new issue would contain the following information:
 
-```
-Description: (A General Description of the issue.)
-Page(s) URL: (What page or pages is this happening on?)
-Reproduction: (If it's a bug, what steps do you do to make this happen?)
-User Role: (Is this happening on a User account, a Mediator account or both?)
-Account Name: (What is the user name of the account you were loigged into when you noticed this?)
-Browser: (What web browser are you using? Chrome, Firefox, Edge ect.)
-```
+* Description: 
+  * A General Description of the issue.
+* Page(s) URL: 
+  * What page or pages is this happening on?
+* Reproduction: 
+  * If it's a bug, what steps do you do to make this happen?
+* User Role: 
+  * Is this happening on a User account, a Mediator account or both?
+* Account Name: 
+  * What is the user name of the account you were loigged into when you noticed this?
+* Browser: 
+  * What web browser are you using? Chrome, Firefox, Edge ect.
+
 So for example:
 ```
 Description: Deleting a notification does not work.
