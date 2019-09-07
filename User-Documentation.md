@@ -46,35 +46,8 @@ Log in to the site by clicking the "Login" button at the top right of the site (
 
 The password for all of the default testing accounts is ```pass```.
 
-### Example accounts you can use by group
-Example Guide:
-```
-Mediator Login
--------
-User A Login
-User B Login
-```
-Group 1:
-```
-gannon.mediator@example.com
--------
-alice.testa@example.com
-bob.testa@example.com
-```
-Group 2:
-```
-gannon.mediator@example.com
--------
-charlie.testa@example.com
-dan.testa@example.com
-```
-Group 3:
-```
-gannon.mediator@example.com
--------
-greg.testa@example.com
-homer.testa@example.com
-```
+### [Example Accounts](https://github.com/matdombrock/SA-Testing/blob/master/Example-Accounts.md)
+
 **All of these accounts use ```pass``` as the password unless changed!**
 
 These are just a few of the example accounts that I've setup. You can always add new accounts by clicking the sign up button (next to login) and having an admin (me) assign a mediator to the group. I would also be more than happy to make new accounts for you as needed. 
