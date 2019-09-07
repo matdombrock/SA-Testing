@@ -8,10 +8,10 @@
 
 [Mobile Support](#mobile-support)
 
-# Account Types
+## Account Types
 
-# Logging In
+## Logging In
 
-# Mediation Groups
+## Mediation Groups
 
-# Mobile Support
+## Mobile Support
