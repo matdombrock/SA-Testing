@@ -12,6 +12,8 @@
 
 [Mediation Groups](#mediation-groups)
 
+[Admin Stuff](#admin-stuff)
+
 [Mobile Support](#mobile-support)
 
 [What If I Break Something?](#what-if-i-break-something)
@@ -88,6 +90,9 @@ As a mediator, you are asked to select your active mediaton upon logging in.
 If you have already selected a mediation group in the past, the site will remember this on you next login. 
 
 You can change your active mediation group at any time by clicking the blue ribbon at the top of page or by visiting the "overview" page.
+
+## Admin Stuff
+While the admin dashboard is fully functional right now, I think it's best to focus on testing the client and mediator dashboards for the time being, so if you have anything that needs the admin account just let me know.
 
 ## Mobile Support
 While many features might already be working on mobile, right now, no part of this site has been optimized to be working on mobile phones or tablets. You will need to use a desktop or laptop for now. 
