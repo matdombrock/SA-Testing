@@ -21,6 +21,9 @@ You can visit the testing server by clicking the:
 
 [Link To Testing Server](https://sa-test.mzero.space)
 
+You can see some example accounts to login with by clicking the:
+[Link To Example Accounts](https://github.com/matdombrock/SA-Testing/blob/master/Example-Accounts.md)
+
 ------
 
 To get started and for more information, checkout the:
