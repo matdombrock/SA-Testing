@@ -5,9 +5,11 @@ This is the Sound Agreements Testing Project!
 
 Github is a pretty technical looking site, but don't worry, you won't be using the vast majority of the stuff you see here. We are just using it for it's awesome project management tools!
 
--------
+The only thing you will need to use here aside from this documentation, is the "Issues" tab. You can safely ignore everything else.
 
-The only thing you will need to use here aside from this documentation, is the "Issues" tab.
+(The actual code is also on GitHub but that's in another project).
+
+-------
 
 For an explanation of how "issues" work and what they are see the:
 
