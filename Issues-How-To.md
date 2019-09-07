@@ -1,4 +1,6 @@
 ## How To Use Issues
+[TEMPLATE](#template)
+
 The "issues" page is where we can track any bugs, missing features, questions or general issues with the app. 
 
 To access the issues page, either click the issues tab in the top bar, or visit [this link](https://github.com/matdombrock/SA-Testing/issues).
@@ -31,6 +33,7 @@ User Role: N/A.
 Account Name: N/A.
 Browser: Chrome, Firefox
 ```
+## Template
 You can copy & paste this template into a new issue:
 ```
 Description: 
