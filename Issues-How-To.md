@@ -22,6 +22,15 @@ User Role: Both.
 Account Name: Gannon Mediora.
 Browser: Chrome, Firefox
 ```
+Another Example:
+```
+Description: Spelling error on Login page.
+Page(s): http://sa-test.mzero.space/login
+Reproduction: The page says "Sing Up" but should say "Sign Up"
+User Role: N/A.
+Account Name: N/A.
+Browser: Chrome, Firefox
+```
 You can copy & paste this template into a new issue:
 ```
 Description: 
