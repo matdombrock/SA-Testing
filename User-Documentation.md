@@ -112,4 +112,4 @@ Many pages have a "help modal" that can be accessed by clicking the blue questio
 
 If you notice a page does not have a help modal, or the help modal is missing useful information, that would make a great issue to submit.
 
-Of course, feel free to reach out to me either via an issue or directly with any questions that come up!
+**Of course, feel free to reach out to me either via an issue or directly with any questions that come up!**
