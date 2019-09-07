@@ -1,7 +1,10 @@
 ## How To Use Issues
-* The "issues" page is where we can track any bugs, missing features, questions or general issues with the app. 
-* To access the issues page, either click the issues tab in the top bar, or visit [this link](https://github.com/matdombrock/SA-Testing/issues).
-* Ideally, a new issue would contain the following information:
+The "issues" page is where we can track any bugs, missing features, questions or general issues with the app. 
+
+To access the issues page, either click the issues tab in the top bar, or visit [this link](https://github.com/matdombrock/SA-Testing/issues).
+
+Ideally, a new issue would contain the following information:
+
 ```
 Description: (A General Description of the issue.)
 Page(s) URL: (What page or pages is this happening on?)
@@ -19,7 +22,7 @@ User Role: Both.
 Account Name: Gannon Mediora.
 Browser: Chrome, Firefox
 ```
-* You can copy & paste this template into a new issue:
+You can copy & paste this template into a new issue:
 ```
 Description: 
 Page(s):
@@ -28,4 +31,4 @@ User Role:
 Account Name: 
 Browser: 
 ```
-* If the new issue is a simple question or suggestion feel free to disregard the template!
+**If the new issue is a simple question or suggestion feel free to disregard the template!**
