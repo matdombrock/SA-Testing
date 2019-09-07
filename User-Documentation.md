@@ -18,6 +18,8 @@
 
 [Is This An App Or A Website?](#is-this-an-app-or-a-website)
 
+[More Help](#more-help)
+
 ## Account Types
 There are three types of accounts. Each has it's own dashboard, authorizations and feature set. 
 * Admin - The site administrator(s)
@@ -99,3 +101,6 @@ You might be wondering why I'm referring to this project as an app or website in
 *So is it an app or a website?*
 
 That depends on who you ask. In my opinion it's both. A website isn't always an app, but this is an app this is also a website.
+
+## More Help
+Many pages have a "help modal" that can be accessed by clicking the blue question mark (?) icon on the bottom right of the page. These modals give page & account type specific help.
