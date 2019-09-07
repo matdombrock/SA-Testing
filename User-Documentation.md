@@ -103,4 +103,8 @@ You might be wondering why I'm referring to this project as an app or website in
 That depends on who you ask. In my opinion it's both. A website isn't always an app, but this is an app this is also a website.
 
 ## More Help
-Many pages have a "help modal" that can be accessed by clicking the blue question mark (?) icon on the bottom right of the page. These modals give page & account type specific help.
+Many pages have a "help modal" that can be accessed by clicking the blue question mark (?) icon on the bottom right of the page. These modals give page & account type specific help. 
+
+If you notice a page does not have a help modal, or the help modal is missing useful information, that would make a great issue to submit.
+
+Of course, feel free to reach out to me either via an issue or directly with any questions that come up!
