@@ -3,7 +3,7 @@
 
 The "issues" page is where we can track any bugs, missing features, questions or general issues with the app. 
 
-To access the issues page, either click the issues tab in the top bar, or visit [this link](https://github.com/matdombrock/SA-Testing/issues).
+To access the issues page, either click the "Issues" tab in the top bar, or visit [this link](https://github.com/matdombrock/SA-Testing/issues).
 
 Ideally, a new issue would contain the following information:
 
