@@ -105,7 +105,7 @@ You might be wondering why I'm referring to this project as an app or website in
 
 *So is it an app or a website?*
 
-That depends on who you ask. In my opinion it's both. A website isn't always an app, but this is an app this is also a website.
+That depends on who you ask. In my opinion it's both. A website isn't always an app, but this is an app and this is also a website. Nerds debate this all the time but most of the time I will probablly say app.
 
 ## More Help
 Many pages have a "help modal" that can be accessed by clicking the blue question mark (?) icon on the bottom right of the page. These modals give page & account type specific help. 
