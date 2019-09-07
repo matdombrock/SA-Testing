@@ -14,9 +14,9 @@
 
 [Mobile Support](#mobile-support)
 
-[What If I Break Something?](#what-if-i-break-something?)
+[What If I Break Something?](#what-if-i-break-something)
 
-[Is This An App Or A Website?](#is-this-an-app-or-a-website?)
+[Is This An App Or A Website?](#is-this-an-app-or-a-website)
 
 ## Account Types
 There are three types of accounts. Each has it's own dashboard, authorizations and feature set. 
