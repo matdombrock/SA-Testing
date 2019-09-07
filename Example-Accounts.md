@@ -1,3 +1,5 @@
+**All of these accounts use ```pass``` as the password unless changed!**
+
 Example Guide:
 ```
 Mediator Login
