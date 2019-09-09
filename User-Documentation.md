@@ -12,7 +12,11 @@
 
 [Mediation Groups](#mediation-groups)
 
+[Payments](#payments)
+
 [Admin Stuff](#admin-stuff)
+
+[Why Do I See A "Your Connection Is Not Private" Message?](#why-do-i-see-a-your-connection-is-not-private-message)
 
 [Mobile Support](#mobile-support)
 
@@ -64,8 +68,18 @@ If you have already selected a mediation group in the past, the site will rememb
 
 You can change your active mediation group at any time by clicking the blue ribbon at the top of page or by visiting the "overview" page.
 
+## Payments
+You can edit your payment info from the account settings page. However, since we are still in testing, **we should NEVER use real credit card info on the site under any circumstance.** This would be a really, really bad thing to do. 
+
+What you can do is use the [pre-approved testing cards availabe here](https://stripe.com/docs/testing#cards). Any of those should work. 
+
 ## Admin Stuff
 While the admin dashboard is fully functional right now, I think it's best to focus on testing the client and mediator dashboards for the time being, so if you have anything that needs the admin account just let me know.
+
+## Why Do I See A "Your Connection Is Not Private" Message?
+You also might be seeing another simmilar message depending on what browser you use.
+
+It's hard to answer this question in a non-super nerdy way, but it's nothing to worry about. Basically we are just missing some certificates that are needed to get that message to go away. This is not something you need to worry about at all since we are also using testing account and testing credit cards and this will NOT be an issue for the final site.
 
 ## Mobile Support
 While many features might already be working on mobile, right now, no part of this site has been optimized to be working on mobile phones or tablets. You will need to use a desktop or laptop for now. 
