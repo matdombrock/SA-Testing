@@ -21,7 +21,7 @@ For an explanation of how "issues" work and what they are see the:
 
 You can visit the testing server by clicking the:
 
-[Link To Testing Server](https://sa-test.mzero.space)[NOT RUNNING YET]
+[Link To Testing Server](https://sa-test.mzero.space) [NOT RUNNING YET]
 
 You can see some example accounts to login with by clicking the:
 
