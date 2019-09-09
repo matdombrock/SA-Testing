@@ -9,6 +9,10 @@ To access the issues page, either click the "Issues" tab in the top bar, or visi
 
 Feel free to try creating some test issues to get a feel for how things work. 
 
+Also, I've tried to submit all of the "known" issues that I can think of already (and will keep submitting things I come across). So [check this link](https://github.com/matdombrock/SA-Testing/issues?q=is%3Aissue+is%3Aopen+label%3Aknown) to see if I already have your problem listed.
+
+### Submitting An Issue
+
 The more information that I can get about the problem, the easier and faster it is for me to fix.
 
 Ideally, a new issue would contain the following information (**BUT THIS IS NOT REQUIRED**):
