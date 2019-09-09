@@ -1,11 +1,17 @@
 ## How To Use Issues
 [TEMPLATE](#template)
 
-The "issues" page is where we can track any bugs, missing features, questions or general issues with the app. 
+The "issues" page is where we can track any bugs, missing features, suggestions, questions or general issues with the app. Pretty much anything topic we need to talk about should get it's own "issue".
+
+"Issues" let us sort our discussions into specific topics, so we can keep everything clear and organized and see what needs to get done at a glance.
 
 To access the issues page, either click the "Issues" tab in the top bar, or visit [this link](https://github.com/matdombrock/SA-Testing/issues).
 
-Ideally, a new issue would contain the following information:
+Feel free to try creating some test issues to get a feel for how things work. 
+
+The more information that I can get about the problem, the easier and faster it is for me to fix.
+
+Ideally, a new issue would contain the following information (**BUT THIS IS NOT REQUIRED**):
 
 * Description: 
   * A General Description of the issue.
@@ -48,4 +54,4 @@ User Role:
 Account Name: 
 Browser: 
 ```
-**If the new issue is a simple question or suggestion feel free to disregard the template!**
+**I know this is a lot and I don;t want to overwhelm you so if the new issue is a simple question or suggestion, or if the this just feels like too much to worry about for now feel free to disregard the template and just tell me what's going on!**
