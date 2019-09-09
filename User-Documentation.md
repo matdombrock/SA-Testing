@@ -79,7 +79,7 @@ While the admin dashboard is fully functional right now, I think it's best to fo
 ## Why Do I See A "Your Connection Is Not Private" Message?
 You also might be seeing another simmilar message depending on what browser you use.
 
-It's hard to answer this question in a non-super nerdy way, but it's nothing to worry about. Basically we are just missing some certificates that are needed to get that message to go away. This is not something you need to worry about at all since we are also using testing account and testing credit cards and this will NOT be an issue for the final site.
+It's hard to answer this question in a non-super nerdy way, but it's nothing to worry about. Basically we are just missing some certificates that are needed to get that message to go away. This is not something you need to worry about at all since we are only using testing accounts and testing credit cards. This message will NOT be seen the final site.
 
 ## Mobile Support
 While many features might already be working on mobile, right now, no part of this site has been optimized to be working on mobile phones or tablets. You will need to use a desktop or laptop for now. 
