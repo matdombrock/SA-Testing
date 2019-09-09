@@ -35,5 +35,5 @@ For an explanation of how "issues" work and what they are see the:
 To see a (filtered) list of issues that I already know about checkout the:
 ### [KNOWN ISSUES FILTER](https://github.com/matdombrock/SA-Testing/issues?q=is%3Aissue+is%3Aopen+label%3Aknown)
 
-To see a list of general discussion topics checkout the:
+To see a (filtered) list of general discussion topics checkout the:
 ### [DISCUSSION ISSUES FILTER](https://github.com/matdombrock/SA-Testing/issues?q=is%3Aissue+is%3Aopen+label%3ADiscussion)
