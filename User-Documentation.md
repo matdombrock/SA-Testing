@@ -81,6 +81,10 @@ You also might be seeing another simmilar message depending on what browser you 
 
 It's hard to answer this question in a non-super nerdy way, but it's nothing to worry about. Basically we are just missing some certificates that are needed to get that message to go away. This is not something you need to worry about at all since we are only using testing accounts and testing credit cards. This message will NOT be seen the final site.
 
+If you see this message click the button that says "Advanced" then click the link at the bottom of the page that says "Proceed to ...". 
+
+Let me know if this causes any problems. 
+
 ## Mobile Support
 While many features might already be working on mobile, right now, no part of this site has been optimized to be working on mobile phones or tablets. You will need to use a desktop or laptop for now. 
 
