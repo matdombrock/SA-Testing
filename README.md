@@ -15,22 +15,22 @@ The only thing you will need to use here aside from this documentation, is the "
 
 For an explanation of how "issues" work and what they are see the:
 
-[Issues How To](https://github.com/matdombrock/SA-Testing/blob/master/Issues-How-To.md)
+### [ISSUES HOW TO](https://github.com/matdombrock/SA-Testing/blob/master/Issues-How-To.md)
 
 ------
 
 You can visit the testing server by clicking the:
 
-[Link To Testing Server](https://sa-test.mzero.space) [NOT RUNNING YET]
+### [~~TESTING SERVER~~](https://sa-test.mzero.space) [NOT RUNNING YET]
 
 You can see some example accounts to login with by clicking the:
 
-[Link To Example Accounts](https://github.com/matdombrock/SA-Testing/blob/master/Example-Accounts.md)
+### [EXAMPLE ACCOUNTS](https://github.com/matdombrock/SA-Testing/blob/master/Example-Accounts.md)
 
 ------
 
 To get started and for more information, checkout the:
 
-[User Documentation](https://github.com/matdombrock/SA-Testing/blob/master/User-Documentation.md)
+### [USER DOCUMENTATON](https://github.com/matdombrock/SA-Testing/blob/master/User-Documentation.md)
 
 
