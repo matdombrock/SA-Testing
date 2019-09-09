@@ -14,7 +14,7 @@ The only thing you will need to use here aside from this documentation, is the "
 
 To get started and for more information, checkout the:
 
-### [USER DOCUMENTATON](https://github.com/matdombrock/SA-Testing/blob/master/User-Documentation.md)
+### [USER GUIDE](https://github.com/matdombrock/SA-Testing/blob/master/User-Documentation.md)
 
 ------
 
