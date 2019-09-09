@@ -1,6 +1,8 @@
 ## How To Use Issues
 [TEMPLATE](#template)
 
+[KNOWN ISSUES](https://github.com/matdombrock/SA-Testing/issues?q=is%3Aissue+is%3Aopen+label%3Aknown)
+
 The "issues" page is where we can track any bugs, missing features, suggestions, questions or general issues with the app. Pretty much anything topic we need to talk about should get it's own "issue".
 
 "Issues" let us sort our discussions into specific topics, so we can keep everything clear and organized and see what needs to get done at a glance.
