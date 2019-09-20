@@ -20,7 +20,7 @@ To get started and for more information, checkout the:
 
 You can visit the testing server by clicking the:
 
-### [TESTING SERVER](http://xxsa-test.mzero.space:1337) [LET ME KNOW IF IT'S NOT UP]
+### [TESTING SERVER](http://sa-test.mzero.space:1337) [LET ME KNOW IF IT'S NOT UP]
 
 You can see some example accounts to login with by clicking the:
 
